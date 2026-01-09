@@ -1,0 +1,8 @@
+
+{
+  "name": "SciTech Hub by Beni",
+  "description": "An interactive science and technology platform featuring AI-driven research, real-time discussions, and visual concept generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
